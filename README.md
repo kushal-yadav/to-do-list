@@ -1,6 +1,6 @@
 Hello,
 
-I have already added two to-do tasks in Home and Office bucket.
+I have already added two to-do tasks in Home and Office bucket. (Stored in RAM)
 
 Steps:
 1. Add new bucket if you wish.
@@ -9,5 +9,7 @@ Steps:
 4. User can mark task as complete and cannot edit the task in complete mode.
 5. User can only edit if task is not marked as complete. User can mark task as remaining and complete it.
 6. User can delete the task. Cannot delete the bucket(functionality not included).
+
+Hosted on link: https://kushal-to-do-list.herokuapp.com
 
 Thank you.
